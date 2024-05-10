@@ -4,6 +4,10 @@ html{
 
 }
 
+div{
+    border: 2px solid red;
+
+}
 #contenedor {
     width: 100%;
     padding: 25px 50px 10px 50px;
@@ -13,18 +17,14 @@ html{
     border-left: dotted orange;
     border-right: dotted red;
 
-
 }
 
-div{
-    border: 2px solid red;
 
-}
 .primero {
     width: 30%;
     padding: 25px 10px;
     border: 2px solid red;
-
+    
 
 }
 .segundo {
@@ -34,3 +34,5 @@ div{
     border: 2px solid red;
     
 }
+
+

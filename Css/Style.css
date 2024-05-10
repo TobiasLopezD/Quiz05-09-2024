@@ -1,0 +1,36 @@
+html{
+    width: 500px;
+
+
+}
+
+#contenedor {
+    width: 100%;
+    padding: 25px 50px 10px 50px;
+    border: 1px dotted;
+    border-top: dashed red;
+    border-bottom:  dashed green;
+    border-left: dotted orange;
+    border-right: dotted red;
+
+
+}
+
+div{
+    border: 2px solid red;
+
+}
+.primero {
+    width: 30%;
+    padding: 25px 10px;
+    border: 2px solid red;
+
+
+}
+.segundo {
+
+    width: 30%;
+    padding: 25px 10px;
+    border: 2px solid red;
+    
+}
